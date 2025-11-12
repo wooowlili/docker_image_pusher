@@ -6,3 +6,7 @@ atmoz/sftp
 centos:centos7
 mysql:5.6.51
 mysql:5.7.44
+mysql:8.0
+zabbix/zabbix-server-mysql:centos-7.4.5
+zabbix/zabbix-web-nginx-mysql:centos-7.4.5
+zabbix/zabbix-agent2:centos-7.4.5
