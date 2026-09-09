@@ -1,9 +1,10 @@
 gitlab/gitlab-ce:17.1.2-ce.0
 gitlab/gitlab-ce:17.3.1-ce.0
 centos:8
-alpine:3.20.2
+alpine:3.24.1
 atmoz/sftp
 centos:centos7
+golang:1.26-alpine
 mysql:5.6.51
 mysql:5.7.44
 mysql:8.0
